@@ -1,0 +1,52 @@
+{
+    "services": [
+        {
+            "id": 1,
+            "icon": "https://picsum.photos/id/10/50/50",
+            "title": "Graphic Design & Branding",
+            "desc": [
+                "Elevate Your Brand Identity",
+                "Captivating Visual Solutions",
+                "Stand Out with Unique Designs",
+                "Crafted for Memorable Impressions",
+                "Transform Ideas into Stunning Graphics"
+            ]
+        },
+        {
+            "id": 2,
+            "icon": "https://picsum.photos/id/15/50/50",
+            "title": "Frontend Development",
+            "desc": [
+                "Seamless User Interfaces",
+                "Responsive Web Experiences",
+                "Code That Speaks Design",
+                "Bringing Designs to Life",
+                "User-Centric Development Approach"
+            ]
+        },
+        {
+            "id": 3,
+            "icon": "https://picsum.photos/id/13/50/50",
+            "title": "User Experience Design",
+            "desc": [
+                "Intuitive & Engaging Interfaces",
+                "Designing for User Delight",
+                "Simplifying User Journeys",
+                "Empathy-Driven Design Solutions",
+                "Enhancing Digital Experiences"
+            ]
+        },
+        {
+            "id": 4,
+            "icon": "https://picsum.photos/id/44/50/50",
+            "title": "Maintenance & Support",
+            "desc": [
+                "Reliable Technical Assistance",
+                "Ensuring Smooth Operations",
+                "Proactive Maintenance Solutions",
+                "Your Digital Safety Net",
+                "Dedicated Support Whenever You Need"
+            ]
+        }
+    ]
+}
