@@ -48,5 +48,55 @@
                 "Dedicated Support Whenever You Need"
             ]
         }
+    ],
+    "skills": [
+        {
+            "id": 1,
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"
+        },
+        {
+            "id": 2,
+            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"
+        },
+        {
+            "id": 3,
+            "icon": "https://picsum.photos/id/3/50/50"
+        },
+        {
+            "id": 4,
+            "icon": "https://picsum.photos/id/4/50/50"
+        },
+        {
+            "id": 5,
+            "icon": "https://picsum.photos/id/5/50/50"
+        },
+        {
+            "id": 6,
+            "icon": "https://picsum.photos/id/6/50/50"
+        },
+        {
+            "id": 7,
+            "icon": "https://picsum.photos/id/7/50/50"
+        },
+        {
+            "id": 8,
+            "icon": "https://picsum.photos/id/8/50/50"
+        },
+        {
+            "id": 9,
+            "icon": "https://picsum.photos/id/9/50/50"
+        },
+        {
+            "id": 10,
+            "icon": "https://picsum.photos/id/10/50/50"
+        },
+        {
+            "id": 11,
+            "icon": "https://picsum.photos/id/11/50/50"
+        },
+        {
+            "id": 12,
+            "icon": "https://picsum.photos/id/12/50/50"
+        }
     ]
 }

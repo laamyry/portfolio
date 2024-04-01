@@ -10,14 +10,31 @@ body {
   margin: 0 auto;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.349);
 }
-li{
-align-self: center;
+li {
+  align-self: center;
 }
-.trace{
+.trace {
   border: 1px solid red;
 }
 
-b{
+b {
   font-weight: 700;
   color: #fc1d32;
+}
+@keyframes popup {
+  0% {
+    transform: scale(0);
+  }
+  60% {
+    transform: scale(1.1);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+.card{
+  transition: all 0.5s ease-in-out;
+}
+.card:hover{
+  scale: 1.1;
 }

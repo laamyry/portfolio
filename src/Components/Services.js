@@ -6,12 +6,12 @@ export default function Services() {
       <div className="text-center text-3xl uppercase font-medium text-[#fc1d32]">
         <h1>Services</h1>
       </div>
-      <div className="flex gap-8 justify-center mt-5">
+      <div className="flex gap-8 justify-center mt-5 flex-wrap">
         {data.services.map((service, index) => (
           <div className="mb-5 ">
             <div
               key={index}
-              className=" p-5 w-60 h-[22rem] object-contain flex bg-white flex-col text-center rounded-2xl shadow-md"
+              className="card p-5 w-60 h-[22rem] object-contain flex bg-white flex-col text-center rounded-2xl shadow-md"
             >
               <img
                 src={service.icon}
