@@ -1,22 +1,32 @@
 import React from "react";
+import image from "../Assets/skills.svg";
 import data from "../data/data.json";
 export default function Skills() {
   return (
-    <div className="flex p-10 ml-14 gap-7">
-      <div className="">
-        <img
-          src="https://picsum.photos/id/10/300/300"
-          alt=""
-        />
+    <div className="flex ml-14 gap-14 flex-wrap" id="skills">
+      <div className="flex flex-1 w-[70%] ">
+        <img className=" w-[80%]" src={image} alt="" />
       </div>
-      <div className="flex gap-2 trace p-6 w-72 h-72 justify-center flex-wrap">
-        {data.skills.map((skill, index) => (
-          <div key={index} class="grid-container self-center w-11">
-            <div className="">
-              <img src={skill.icon} className="rounded-full" alt="" />
+      <div className="flex flex-col justify-center self-center flex-1   ">
+        <div className="text-3xl uppercase font-bold text-[#fc1d32] w-72 text-center  m-auto">
+          <h1>Skills</h1>
+        </div>
+        <div className="flex gap-2 p-6 h-72  flex-wrap w-72  m-auto justify-center">
+          {data.skills.map((skill, index) => (
+            <div
+              key={index}
+              className="grid-container self-center flex justify-center"
+            >
+              <div className="rounded-full flex w-11 h-11">
+                <img
+                  src={skill.icon}
+                  className="self-center object-contain h-16 w-16 "
+                  alt=""
+                />
+              </div>
             </div>
-          </div>
-        ))}
+          ))}
+        </div>
       </div>
     </div>
   );

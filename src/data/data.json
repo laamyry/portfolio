@@ -1,102 +1,121 @@
 {
-    "services": [
-        {
-            "id": 1,
-            "icon": "https://picsum.photos/id/10/50/50",
-            "title": "Graphic Design & Branding",
-            "desc": [
-                "Elevate Your Brand Identity",
-                "Captivating Visual Solutions",
-                "Stand Out with Unique Designs",
-                "Crafted for Memorable Impressions",
-                "Transform Ideas into Stunning Graphics"
-            ]
-        },
-        {
-            "id": 2,
-            "icon": "https://picsum.photos/id/15/50/50",
-            "title": "Frontend Development",
-            "desc": [
-                "Seamless User Interfaces",
-                "Responsive Web Experiences",
-                "Code That Speaks Design",
-                "Bringing Designs to Life",
-                "User-Centric Development Approach"
-            ]
-        },
-        {
-            "id": 3,
-            "icon": "https://picsum.photos/id/13/50/50",
-            "title": "User Experience Design",
-            "desc": [
-                "Intuitive & Engaging Interfaces",
-                "Designing for User Delight",
-                "Simplifying User Journeys",
-                "Empathy-Driven Design Solutions",
-                "Enhancing Digital Experiences"
-            ]
-        },
-        {
-            "id": 4,
-            "icon": "https://picsum.photos/id/44/50/50",
-            "title": "Maintenance & Support",
-            "desc": [
-                "Reliable Technical Assistance",
-                "Ensuring Smooth Operations",
-                "Proactive Maintenance Solutions",
-                "Your Digital Safety Net",
-                "Dedicated Support Whenever You Need"
-            ]
-        }
-    ],
-    "skills": [
-        {
-            "id": 1,
-            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"
-        },
-        {
-            "id": 2,
-            "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"
-        },
-        {
-            "id": 3,
-            "icon": "https://picsum.photos/id/3/50/50"
-        },
-        {
-            "id": 4,
-            "icon": "https://picsum.photos/id/4/50/50"
-        },
-        {
-            "id": 5,
-            "icon": "https://picsum.photos/id/5/50/50"
-        },
-        {
-            "id": 6,
-            "icon": "https://picsum.photos/id/6/50/50"
-        },
-        {
-            "id": 7,
-            "icon": "https://picsum.photos/id/7/50/50"
-        },
-        {
-            "id": 8,
-            "icon": "https://picsum.photos/id/8/50/50"
-        },
-        {
-            "id": 9,
-            "icon": "https://picsum.photos/id/9/50/50"
-        },
-        {
-            "id": 10,
-            "icon": "https://picsum.photos/id/10/50/50"
-        },
-        {
-            "id": 11,
-            "icon": "https://picsum.photos/id/11/50/50"
-        },
-        {
-            "id": 12,
-            "icon": "https://picsum.photos/id/12/50/50"
-        }
-    ]
+  "services": [
+    {
+      "id": 1,
+      "icon": "https://picsum.photos/id/10/50/50",
+      "title": "Graphic Design & Branding",
+      "desc": [
+        "Elevate Your Brand Identity",
+        "Captivating Visual Solutions",
+        "Stand Out with Unique Designs",
+        "Crafted for Memorable Impressions",
+        "Transform Ideas into Stunning Graphics"
+      ]
+    },
+    {
+      "id": 2,
+      "icon": "https://picsum.photos/id/15/50/50",
+      "title": "Frontend Development",
+      "desc": [
+        "Seamless User Interfaces",
+        "Responsive Web Experiences",
+        "Code That Speaks Design",
+        "Bringing Designs to Life",
+        "User-Centric Development Approach"
+      ]
+    },
+    {
+      "id": 3,
+      "icon": "https://picsum.photos/id/13/50/50",
+      "title": "User Experience Design",
+      "desc": [
+        "Intuitive & Engaging Interfaces",
+        "Designing for User Delight",
+        "Simplifying User Journeys",
+        "Empathy-Driven Design Solutions",
+        "Enhancing Digital Experiences"
+      ]
+    },
+    {
+      "id": 4,
+      "icon": "https://picsum.photos/id/44/50/50",
+      "title": "Maintenance & Support",
+      "desc": [
+        "Reliable Technical Assistance",
+        "Ensuring Smooth Operations",
+        "Proactive Maintenance Solutions",
+        "Your Digital Safety Net",
+        "Dedicated Support Whenever You Need"
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "id": 1,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/512px-Adobe_Illustrator_CC_icon.svg.png"
+    },
+    {
+      "id": 2,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1051px-Adobe_Photoshop_CC_icon.svg.png"
+    },
+    {
+      "id": 3,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Adobe_InDesign_CC_icon.svg/512px-Adobe_InDesign_CC_icon.svg.png"
+    },
+    {
+      "id": 4,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/512px-Adobe_After_Effects_CC_icon.svg.png"
+    },
+    {
+      "id": 5,
+      "icon": "https://cdn-icons-png.freepik.com/512/8152/8152756.png"
+    },
+    {
+      "id": 6,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/512px-Blender_logo_no_text.svg.png"
+    },
+    {
+      "id": 7,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"
+    },
+    {
+      "id": 8,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"
+    },
+    {
+      "id": 9,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/363px-CSS3_logo_and_wordmark.svg.png"
+    },
+    {
+      "id": 10,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png"
+    },
+    {
+      "id": 11,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/512px-Unofficial_JavaScript_logo_2.svg.png"
+    },
+    {
+      "id": 12,
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/438px-Python-logo-notext.svg.png"
+    }
+  ]
+  ,
+  "behance": [
+    {
+      "id": 1,
+      "number": 101650395
+    },
+    {
+      "id": 2,
+      "number": 87167825
+    },
+    {
+      "id": 3,
+      "number": 101105057
+    },
+    {
+      "id": 4,
+      "number": 101105161
+    }
+  ]
 }

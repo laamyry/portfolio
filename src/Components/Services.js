@@ -2,15 +2,15 @@ import React from "react";
 import data from "../data/data.json";
 export default function Services() {
   return (
-    <div className="mt-5 bg-gray-100 pt-4">
-      <div className="text-center text-3xl uppercase font-medium text-[#fc1d32]">
+    <div className="mt-5 bg-gray-100 pt-4" id="services">
+      <div className="text-center text-3xl uppercase font-bold text-[#fc1d32]">
         <h1>Services</h1>
       </div>
       <div className="flex gap-8 justify-center mt-5 flex-wrap">
         {data.services.map((service, index) => (
-          <div className="mb-5 ">
+          <div className="mb-5 "key={index}>
             <div
-              key={index}
+
               className="card p-5 w-60 h-[22rem] object-contain flex bg-white flex-col text-center rounded-2xl shadow-md"
             >
               <img

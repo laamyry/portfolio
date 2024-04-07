@@ -32,9 +32,23 @@ b {
     transform: scale(1);
   }
 }
-.card{
+.card,
+.works-card {
   transition: all 0.5s ease-in-out;
 }
-.card:hover{
+.card:hover {
   scale: 1.1;
+}
+
+.works-card:hover {
+  scale: 1.02;
+}
+input {
+  all: unset;
+  border-bottom: #fc1d3379 0.8rem solid;
+}
+textarea {
+  all: unset;}
+.form{
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.196);
 }
